@@ -16,7 +16,7 @@
 <div align="center">
 
 <details>
-<summary><b>🇺🇸 Click here for English Version (Presiona aquí para Inglés)</b></summary>
+<summary><b>🇺🇸 Click here for English Version (English)</b></summary>
 <br />
 
 # Hi there! I'm Andre908c 👋
@@ -25,6 +25,45 @@ I am a tech student currently developing browser extensions and learning modern 
 * 📚 Learning: **React.js & JavaScript (ES6+)**
 * 🎓 Focus: **Full Stack Developer in training**
 * 🛠️ Current Project: **Browser Extension for workflow optimization**
+
+</details>
+
+<details>
+<summary><b>🇩🇪 Hier klicken für die deutsche Version (Deutsch)</b></summary>
+<br />
+
+# Hallo! Ich bin Andre908c 👋
+Ich bin ein Informatikstudent, der derzeit Browser-Erweiterungen entwickelt und moderne Frameworks lernt.
+
+* 📚 Ich lerne: **React.js & JavaScript (ES6+)**
+* 🎓 Fokus: **Full-Stack-Entwickler in Ausbildung**
+* 🛠️ Aktuelles Projekt: **Browser-Erweiterung zur Workflow-Optimierung**
+
+</details>
+
+<details>
+<summary><b>🇷🇺 Нажмите здесь для русской версии (Русский)</b></summary>
+<br />
+
+# Привет! Я Andre908c 👋
+Я студент-разработчик программного обеспечения, увлекающийся технологиями и разработкой расширений.
+
+* 📚 Изучаю: **React.js и JavaScript (ES6+)**
+* 🎓 Цель: **Full Stack разработчик**
+* 🛠️ Проект: **Браузерное расширение для оптимизации процессов**
+
+</details>
+
+<details>
+<summary><b>🇨🇳 点击查看中文版 (简体中文)</b></summary>
+<br />
+
+# 你好！我是 Andre908c 👋
+我是一名软件开发专业的学生，目前正在开发浏览器扩展并学习现代框架。
+
+* 📚 正在学习: **React.js 和 JavaScript (ES6+)**
+* 🎓 目标: **全栈开发人员**
+* 🛠️ 当前项目: **用于工作流优化的浏览器扩展**
 
 </details>
 
@@ -68,9 +107,7 @@ Soy un apasionado **estudiante** enfocado en el desarrollo de software. Mi proye
 | :--- | :--- | :--- | :--- |
 | 🧩 Extensión de Navegador | **React, JS, JSON** | 🏗️ En proceso | [Ver Repo](https://github.com/Andre908c/extencions) |
 
-
 ---
-
 
 ## 📫 Conectemos
 <div align="center">
