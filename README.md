@@ -1,49 +1,56 @@
 <div align="center">
 
 # 👋 ¡Hola! Soy Andre908c
-### Estudiante de Desarrollo de Software | Entusiasta de la Tecnología
+### Estudiante de Programación | Entusiasta de la Tecnología
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Andre908c&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&width=435&lines=Aprendiendo+Python;Desarrollando+con+HTML+y+CSS;Estudiante+de+Software;Amante+de+la+Tecnolog%C3%ADa)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&width=435&lines=Aprendiendo+React+y+JavaScript;Desarrollando+Extensiones;Estudiante+de+Software;Amante+de+la+Tecnolog%C3%ADa)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🌍 Selecciona tu idioma / Select your language
+
+<div align="center">
+
+<details>
+<summary><b>🇺🇸 Click here for English Version (Presiona aquí para Inglés)</b></summary>
+<br />
+
+# Hi there! I'm Andre908c 👋
+I am a tech student currently developing browser extensions and learning modern frameworks.
+
+* 📚 Learning: **React.js & JavaScript (ES6+)**
+* 🎓 Focus: **Full Stack Developer in training**
+* 🛠️ Current Project: **Browser Extension for workflow optimization**
+
+</details>
 
 </div>
 
 ---
 
 ## 🚀 Sobre Mí
-Soy un apasionado **estudiante** enfocado en construir las bases de mi carrera tecnológica. Me encanta resolver problemas y aprender nuevas formas de crear contenido para la web.
+Soy un apasionado **estudiante** enfocado en el desarrollo de software. Mi proyecto principal actual es una extensión de navegador construida con **React**, donde aplico mis conocimientos en lógica de programación y diseño de interfaces.
 
-* 📚 Actualmente profundizando en: **Python y Estructuras de Datos**
+* 📚 Actualmente profundizando en: **React, JavaScript y Python**
 * 🎓 Mi enfoque: **Desarrollo Full Stack en proceso**
-* ⚡ Un dato curioso: ¡Me encanta aprender cosas nuevas todos los días!
-
----
-
-## 🌐 Idioma / Language
-
-<details>
-<summary><b>Click here for English version</b> (Haz clic para ver en inglés)</summary>
-
-### Hi there! I'm Andre908c 👋
-
-I am a tech student focused on building the foundations of my career. I love solving problems and learning new ways to create web content.
-
-* 📚 Currently deepening my knowledge in: **Python and Data Structures**
-* 🎓 Focus: **Full Stack Developer in training**
-* ⚡ Fun fact: I love learning new things every day!
-
-</details>
+* ⚡ Interés: Automatización y herramientas de productividad.
 
 ---
 
 ## 🛠️ Mi Stack Tecnológico
 
-### 💻 Lenguajes
+### 💻 Lenguajes y Frameworks
 <div align="left">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
 </div>
 
 ### 🔧 Herramientas
@@ -56,11 +63,11 @@ I am a tech student focused on building the foundations of my career. I love sol
 ---
 
 ## 📌 Proyectos Destacados
-Aquí puedes ver los proyectos en los que estoy trabajando actualmente:
 
-| Proyecto | Descripción | Estado | Link |
+| Proyecto | Tecnologías | Estado | Link |
 | :--- | :--- | :--- | :--- |
-| 🧩 Extensión de Navegador | Una herramienta personalizada que estamos desarrollando para optimizar flujos de trabajo. | 🏗️ En proceso | [Ver Repo](https://github.com/Andre908c/extencions) |
+| 🧩 Extensión de Navegador | **React, JS, JSON** | 🏗️ En proceso | [Ver Repo](https://github.com/Andre908c/extencions) |
+
 
 ---
 
