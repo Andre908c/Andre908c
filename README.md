@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 ¡Hola! Soy Andre908c
-### Estudiante de Programación | Entusiasta de la Tecnología
+### Estudiante de desarrollo de software | Entusiasta de la Tecnología
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Andre908c&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
 
