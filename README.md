@@ -106,6 +106,8 @@ Soy un apasionado **estudiante** enfocado en el desarrollo de software. Mi proye
 | Proyecto | Tecnologías | Estado | Link |
 | :--- | :--- | :--- | :--- |
 | 🧩 Extensión de Navegador | **React, JS, JSON** | 🏗️ En proceso | [Ver Repo](https://github.com/Andre908c/extencions) |
+| 🧩 Dashboard ajs chromi | **HTML, JS, CSS** | 🏗️ En proceso | [Ver Repo](https://github.com/Andre908c/dashboard-ajs-chromi) |
+
 
 ---
 
